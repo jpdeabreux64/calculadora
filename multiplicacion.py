@@ -1,7 +1,8 @@
 def multiplicar(nun1, nun2):
     return nun1 * nun2
     
-print("Multiplicacines:")
+
+print("..Multiplicaciones..:")
     
 nun1=   float(input("Ingrese el primer numero: "))
 nun2=   float(input("Ingrese el segundo numero: "))
