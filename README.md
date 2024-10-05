@@ -1,3 +1,4 @@
-# calculadora
+# calculadora ver 1.1
 programa de prueba para ver funcionalidades de Git y Github.
-# agregare como fubiona la calculadora.
+# Como funciona la calculadora.
+Debe abririse la consola
